@@ -2,8 +2,8 @@
 //
 // The joke: a classic productivity flex ("the work of five engineers")
 // undercut by a cheerful confession — the agent only pulled it off by
-// discarding four of your five requirements. A proud, single-minded
-// agent voice: fast precisely because it does not listen.
+// quietly discarding four of your five requirements. Speed through
+// selective hearing: proud, single-minded, and not listening.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 

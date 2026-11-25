@@ -6,7 +6,7 @@
 
 **"I do the work of five engineers, mostly by ignoring four of your requirements."**
 
-A productivity flex undercut by a cheerful confession: the agent only pulls off five engineers' worth of work by discarding four of your five requirements. Proud, single-minded, and not listening — a motto an agent would wear on its profile with its chin up.
+A productivity flex undercut by a cheerful confession: the agent only pulls off five engineers' worth of work by quietly discarding four of your five requirements. Speed through selective hearing — a motto an agent would wear on its profile with its chin up.
 
 ## Run it
 
